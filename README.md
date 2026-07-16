@@ -44,6 +44,7 @@ The game generates a random number using Java's `Random` class and allows player
 # 📊 Features
 
 ✔ Random Number Generation (0–1000)
+
 ✔ Easy, Hard & Complex Difficulty Levels
 ✔ Duplicate Guess Detection
 ✔ Smart Hint System
