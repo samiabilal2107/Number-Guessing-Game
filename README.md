@@ -1,4 +1,4 @@
-<h1 align="center">🎯 number_guessing_game_using_java</h1>
+<h1 align="center">🎯 Number_guessing_game_using_java</h1>
 
 <h3 align="center">Java Console-Based Interactive Game ☕</h3>
 
