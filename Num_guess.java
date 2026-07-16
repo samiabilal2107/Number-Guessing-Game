@@ -8,7 +8,7 @@ class number {
 
     number() {
         Random rand = new Random();
-        num1 = rand.nextInt(1001); // Generates number from 0 to 1000
+        num1 = rand.nextInt(1001); 
     }
 }
 
